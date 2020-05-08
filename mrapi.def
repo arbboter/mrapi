@@ -1,0 +1,15 @@
+LIBRARY mrapi
+EXPORTS  
+MrInit
+MrInit1
+MrCreatePkgID
+MrSend
+MrBrowse
+MrReceive1
+MrReceive1_FreeBuf
+MrReceive2
+MrReceive3
+MrIsLinkOK
+MrDestroy
+MrUninit
+ShowMsg
